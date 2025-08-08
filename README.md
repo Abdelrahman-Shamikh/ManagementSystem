@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abdelrahman-Shamikh/DEPI-Assignments/main/Employee_management_sys/assets/logo.png" width="30%" alt="Employee Management Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30%" alt="Employee Management Logo"/>
 
 # EMPLOYEE_MANAGEMENT_SYS
 
@@ -32,7 +32,6 @@
     - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -55,23 +54,25 @@ It uses CSV files for storage and is designed to be run and tested within Jupyte
 
 ## Project Structure
 
-└── Employee_management_sys/
-    ├── Abdelrahman_Emad.ipynb     # Notebook with initial development<br>
+└── Employee_management_sys/ <br>
     ├── Employee_manage.ipynb      # Main management system notebook<br>
-    └── Employees.csv              # Employee data storage
-## Prerequisites
+    └── Employees.csv              # Employee data storage<br>
+    
+## Getting Started
+
+# Prerequisites
 
 - Python 3.10+
 - Jupyter Notebook
 - Pandas library
 
-## Install dependencies with:
+# Install dependencies with:
 
 1. pip install pandas notebook
 
 2. Pandas library
 
-## Installation
+# Installation
 
  1.Clone the repository:
 git clone https://github.com/Abdelrahman-Shamikh/DEPI-Assignments.git
@@ -87,6 +88,12 @@ Open Employee_manage.ipynb in Jupyter Notebook
 
 Follow the cell execution order to interact with the system
 
+## Roadmap
+
+- [x] Add CRUD functionality
+- [ ] Add sorting and filtering features
+- [ ] Add graphical UI with Tkinter or Streamlit
+
 ## Contributing
 1. Fork the repository
 
@@ -100,4 +107,4 @@ Follow the cell execution order to interact with the system
 1. DEPI program for project guidance
 
 2. Pandas documentation for data handling tips
-<div align="center"> <a href="#top">🔝 Back to top</a> </div> ```
+<div align="center"> <a href="#top">🔝 Back to top</a> </div>
