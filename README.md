@@ -11,7 +11,6 @@
 
 <!-- BADGES -->
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 <em>Built with the tools and technologies:</em>  
 🐍 Python • 📓 Jupyter Notebook • 📊 CSV  
