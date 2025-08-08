@@ -59,19 +59,19 @@ It uses CSV files for storage and is designed to be run and tested within Jupyte
     
 ## Getting Started
 
-# Prerequisites
+### Prerequisites
 
 - Python 3.10+
 - Jupyter Notebook
 - Pandas library
 
-# Install dependencies with:
+### Install dependencies with:
 
 1. pip install pandas notebook
 
 2. Pandas library
 
-# Installation
+### Installation
 
  1.Clone the repository:
 git clone https://github.com/Abdelrahman-Shamikh/DEPI-Assignments.git
