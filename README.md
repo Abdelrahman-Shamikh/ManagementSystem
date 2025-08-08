@@ -75,10 +75,13 @@ It uses CSV files for storage and is designed to be run and tested within Jupyte
 
 1.Clone the repository:
 git clone https://github.com/Abdelrahman-Shamikh/DEPI-Assignments.git
+
 2. Navigate to the project folder:
 cd DEPI-Assignments/Employee_management_sys
+
 3. Run Jupyter Notebook:
 jupyter notebook
+
 ## Usage
 Open Employee_manage.ipynb in Jupyter Notebook
 
@@ -93,14 +96,8 @@ Follow the cell execution order to interact with the system
 
 4. Push to your branch (git push origin feature-name)
 
-## Open a Pull Request
-
 ## Acknowledgments
 1. DEPI program for project guidance
 
 2. Pandas documentation for data handling tips
-
-<div align="right">
-
-
-</div>
+<div align="right"> <a href="#top">🔝 Back to top</a> </div> ```
