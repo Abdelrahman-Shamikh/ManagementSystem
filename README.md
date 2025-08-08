@@ -56,8 +56,8 @@ It uses CSV files for storage and is designed to be run and tested within Jupyte
 ## Project Structure
 
 └── Employee_management_sys/
-    ├── Abdelrahman_Emad.ipynb     # Notebook with initial development
-    ├── Employee_manage.ipynb      # Main management system notebook
+    ├── Abdelrahman_Emad.ipynb     # Notebook with initial development<br>
+    ├── Employee_manage.ipynb      # Main management system notebook<br>
     └── Employees.csv              # Employee data storage
 ## Prerequisites
 
@@ -73,7 +73,7 @@ It uses CSV files for storage and is designed to be run and tested within Jupyte
 
 ## Installation
 
-1.Clone the repository:
+ 1.Clone the repository:
 git clone https://github.com/Abdelrahman-Shamikh/DEPI-Assignments.git
 
 2. Navigate to the project folder:
@@ -100,4 +100,4 @@ Follow the cell execution order to interact with the system
 1. DEPI program for project guidance
 
 2. Pandas documentation for data handling tips
-<div align="right"> <a href="#top">🔝 Back to top</a> </div> ```
+<div align="center"> <a href="#top">🔝 Back to top</a> </div> ```
