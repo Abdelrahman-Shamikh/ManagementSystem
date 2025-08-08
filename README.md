@@ -1,55 +1,128 @@
-# Employee Management System (Python)
+<div id="top">
 
-## 📌 Overview
-This is a simple **Employee Management System** built in Python that allows you to:
-- Add new employees
-- View all employees
-- Update employee details
-- Delete employees
-- Search employees by ID
+<!-- HEADER STYLE: CLASSIC -->
+<div align="center">
 
-All data is stored in a **CSV file** (`Employees.csv`) for persistence.
+<img src="https://raw.githubusercontent.com/Abdelrahman-Shamikh/DEPI-Assignments/main/Employee_management_sys/assets/logo.png" width="30%" alt="Employee Management Logo"/>
 
----
+# EMPLOYEE_MANAGEMENT_SYS
 
-## 🚀 Features
-1. **Add Employee**
-   - Assigns an ID, name, position, salary, and email.
-   - Validates salary (must be a number) and email (must contain `@` and `.`).
-   
-2. **View Employees**
-   - Displays all employees in the system.
+<em>A simple employee management system built with Python and Jupyter Notebook.</em>
 
-3. **Update Employee**
-   - Update name, position, salary, or email.
-   - Option to leave fields blank to keep existing values.
+<!-- BADGES -->
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-4. **Delete Employee**
-   - Remove employee by their ID.
+<em>Built with the tools and technologies:</em>  
+🐍 Python • 📓 Jupyter Notebook • 📊 CSV  
 
-5. **Search Employee**
-   - Look up an employee by ID.
-
-6. **Persistent Storage**
-   - Stores all employee data in a CSV file.
+</div>
+<br>
 
 ---
 
-## 📂 File Structure
-├── Employees.csv<br>
-├── employee_manager.py<br>
-└── README.md  
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ---
 
-## 🛠 Requirements
-- Python 3.x
-- No extra dependencies (uses built-in `csv` and `os` modules)
+## Overview
+
+The **Employee Management System** helps store, view, and manage employee data such as name, position, and salary.  
+It uses CSV files for storage and is designed to be run and tested within Jupyter Notebooks.
 
 ---
 
-## 📖 Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/employee-manager.git
-   cd employee-manager
+## Features
 
+- Add, update, and delete employee records  
+- Search employees by name or ID  
+- Display all employees in a clean table format  
+- Save and load employee data from `Employees.csv`  
+
+---
+
+## Project Structure
+
+```sh
+└── Employee_management_sys/
+    ├── Abdelrahman_Emad.ipynb     # Notebook with initial development
+    ├── Employee_manage.ipynb      # Main management system notebook
+    └── Employees.csv              # Employee data storage
+Getting Started
+Prerequisites
+Python 3.10+
+
+Jupyter Notebook
+
+Pandas library
+
+Install dependencies with:
+
+pip install pandas notebook
+Installation
+Clone the repository:
+
+sh
+Copy
+Edit
+git clone https://github.com/Abdelrahman-Shamikh/DEPI-Assignments.git
+Navigate to the project folder:
+
+sh
+Copy
+Edit
+cd DEPI-Assignments/Employee_management_sys
+Run Jupyter Notebook:
+
+sh
+Copy
+Edit
+jupyter notebook
+Usage
+Open Employee_manage.ipynb in Jupyter Notebook
+
+Follow the cell execution order to interact with the system
+
+Roadmap
+ Add CRUD functionality
+
+ Add sorting and filtering features
+
+ Add graphical UI with Tkinter or Streamlit
+
+Contributing
+Fork the repository
+
+Create a new branch (git checkout -b feature-name)
+
+Commit changes (git commit -m "Added feature")
+
+Push to your branch (git push origin feature-name)
+
+Open a Pull Request
+
+License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
+Acknowledgments
+DEPI program for project guidance
+
+Pandas documentation for data handling tips
+
+<div align="right">
+
+
+</div>
