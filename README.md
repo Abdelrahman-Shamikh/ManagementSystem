@@ -55,72 +55,50 @@ It uses CSV files for storage and is designed to be run and tested within Jupyte
 
 ## Project Structure
 
-```sh
 └── Employee_management_sys/
     ├── Abdelrahman_Emad.ipynb     # Notebook with initial development
     ├── Employee_manage.ipynb      # Main management system notebook
     └── Employees.csv              # Employee data storage
-Getting Started
-Prerequisites
-Python 3.10+
+## Prerequisites
 
-Jupyter Notebook
+- Python 3.10+
+- Jupyter Notebook
+- Pandas library
 
-Pandas library
+## Install dependencies with:
 
-Install dependencies with:
+1. pip install pandas notebook
 
-pip install pandas notebook
-Installation
-Clone the repository:
+2. Pandas library
 
-sh
-Copy
-Edit
+## Installation
+
+1.Clone the repository:
 git clone https://github.com/Abdelrahman-Shamikh/DEPI-Assignments.git
-Navigate to the project folder:
-
-sh
-Copy
-Edit
+2. Navigate to the project folder:
 cd DEPI-Assignments/Employee_management_sys
-Run Jupyter Notebook:
-
-sh
-Copy
-Edit
+3. Run Jupyter Notebook:
 jupyter notebook
-Usage
+## Usage
 Open Employee_manage.ipynb in Jupyter Notebook
 
 Follow the cell execution order to interact with the system
 
-Roadmap
- Add CRUD functionality
+## Contributing
+1. Fork the repository
 
- Add sorting and filtering features
+2. Create a new branch (git checkout -b feature-name)
 
- Add graphical UI with Tkinter or Streamlit
+3. Commit changes (git commit -m "Added feature")
 
-Contributing
-Fork the repository
+4. Push to your branch (git push origin feature-name)
 
-Create a new branch (git checkout -b feature-name)
+## Open a Pull Request
 
-Commit changes (git commit -m "Added feature")
+## Acknowledgments
+1. DEPI program for project guidance
 
-Push to your branch (git push origin feature-name)
-
-Open a Pull Request
-
-License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
-
-Acknowledgments
-DEPI program for project guidance
-
-Pandas documentation for data handling tips
+2. Pandas documentation for data handling tips
 
 <div align="right">
 
