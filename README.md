@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30%" alt="Employee Management Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/User_icon_2.svg" width="30%" alt="Employee Management Logo"/>
 
 # EMPLOYEE_MANAGEMENT_SYS
 
