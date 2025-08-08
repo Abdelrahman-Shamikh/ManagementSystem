@@ -36,9 +36,9 @@ All data is stored in a **CSV file** (`Employees.csv`) for persistence.
 ---
 
 ## 📂 File Structure
-├── Employees.csv
-├── employee_manager.py
-└── README.md
+├── Employees.csv<br>
+├── employee_manager.py<br>
+└── README.md  
 ---
 
 ## 🛠 Requirements
